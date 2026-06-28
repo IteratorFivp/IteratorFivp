@@ -1,7 +1,14 @@
 <img width="1280" height="412" alt="image" src="https://github.com/user-attachments/assets/e3db3eac-87c6-49ea-b850-9d3d34553bad" />
 <p align="center">
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=FDB0C0&width=435&lines=Hello+World!;Welcome+to+my+profile!!" alt="Typing SVG" />
+  $\color{#FDB0C0}{\text{✦•┈๑⋅⋯ ⋯⋅๑┈•✦•┈๑⋅⋯ ⋯⋅๑┈•✦•┈๑⋅⋯ ⋯⋅๑┈•✦•┈๑⋅⋯ ⋯⋅๑┈•✦•┈๑⋅⋯ ⋯⋅๑┈•✦•┈๑⋅⋯ ⋯⋅๑┈•✦}}$
+</p>
+
+<p align="center">
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=FDB0C0&width=150&lines=Hello+World!" alt="Typing SVG" />
 </p> 
+<p align="center">
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=FDB0C0&width=250&lines=Welcome+to+my+profile!!" alt="Typing SVG" />
+</p>
 
 <p align="center">
   $\color{Pink}{\text{Call me: Subspace - Fivp - JOshe}}$ 
