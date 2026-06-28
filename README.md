@@ -26,7 +26,7 @@ $\color{Pink}{\text{Im 16, I have no problem int!! TALK TO ME!!! cough... anyway
 </p>
 
 <p align="center">
-  $\color{#FDB0C0}{\text{Im a masc girl! and Subspace is one of my Fictkins, English is not my first language... so sorry for my poor grammar}}$
+  $\color{#FDB0C0}{\text{Im a masc girl! and Subspace is one of my Fictkins, English is not my first language... so sorry for my poor grammar!}}$
 </p>
 
 <div align="center">
