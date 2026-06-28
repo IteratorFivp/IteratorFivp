@@ -18,5 +18,7 @@ $\color{Pink}{\text{Im 16, I have no problem int!! TALK TO ME!!! cough... anyway
 </p>
 
 <div align="center">
-  <img src="https://via.placeholder.com/150" alt="Logo" width="150" />
+  <img width="500" height="500" alt="image" src="https://github.com/user-attachments/assets/eff854e4-ddfd-4156-8f83-e5339eb28a90" />
 </div>
+
+<img width="1280" height="412" alt="image" src="https://github.com/user-attachments/assets/050f68a3-42a5-44bd-bcc4-977591148940" />
