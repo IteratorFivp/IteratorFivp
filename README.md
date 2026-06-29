@@ -13,7 +13,9 @@
   $\color{#d5e5aa}{\text{Do you think it'd be enough, do you think it'd be enough?..₊˚♪ 𝄞}}$
 </p>
 
-
+<p align="center">
+  <img width="407" height="193" alt="ezgif-5f1f9bec806b035f" src="https://github.com/user-attachments/assets/de32e42a-9698-4d7c-9de3-a0c1806363dd">
+</p>
 <h1 align="center">
   $\color{#FDB0C0}{\text{✦•┈๑⋅⋯ ⋯⋅๑┈•✦•┈๑⋅⋯ ⋯⋅๑┈•✦•┈๑⋅⋯ ⋯⋅๑┈•✦•┈๑⋅⋯ ⋯⋅๑┈•✦•┈๑⋅⋯ ⋯⋅๑┈•✦•┈๑⋅⋯ ⋯⋅๑┈•✦}}$
 </h1>
@@ -55,7 +57,3 @@ $\color{Pink}{\text{Im 16, I have no problem int!! TALK TO ME!!! cough... anyway
 
 <img width="1280" height="412" alt="image" src="https://github.com/user-attachments/assets/050f68a3-42a5-44bd-bcc4-977591148940" />
 
-
-<p align="center">
-  <img width="768" height="512" alt="ezgif-5f5143ead9a4afff" src="https://github.com/user-attachments/assets/d88b70b3-2c3a-453f-a78d-616bd7dcc748" alt="My GIF">
-</p>
