@@ -1,5 +1,9 @@
 <img width="1280" height="412" alt="image" src="https://github.com/user-attachments/assets/e3db3eac-87c6-49ea-b850-9d3d34553bad" />
 
+<p align="center">
+  $\color{#d5e5aa}{\text{₊˚♪ 𝄞I can feel your heart beating under my skin, And the beating of your heart is making me bleed from within!  ˎˊ˗}}$
+</p>
+
 <h1 align="center">
   $\color{#FDB0C0}{\text{✦•┈๑⋅⋯ ⋯⋅๑┈•✦•┈๑⋅⋯ ⋯⋅๑┈•✦•┈๑⋅⋯ ⋯⋅๑┈•✦•┈๑⋅⋯ ⋯⋅๑┈•✦•┈๑⋅⋯ ⋯⋅๑┈•✦•┈๑⋅⋯ ⋯⋅๑┈•✦}}$
 </h1>
